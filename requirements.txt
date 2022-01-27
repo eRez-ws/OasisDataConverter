@@ -9,7 +9,7 @@ black==19.10b0            # via pytest-black
 cloudpickle==1.4.1        # via distributed
 distributed==2.19.0       # via modin
 fsspec==0.7.4             # via dask
-ipython==7.15.0           # via ipdb
+ipython==7.16.3           # via ipdb
 modin[dask]==0.7.3        # via -r requirements-package.in
 more-itertools==8.4.0     # via pytest
 networkx==2.4             # via -r requirements-package.in
